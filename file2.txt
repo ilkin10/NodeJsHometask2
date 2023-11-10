@@ -1,0 +1,1 @@
+This is an example text file (file2.txt).
